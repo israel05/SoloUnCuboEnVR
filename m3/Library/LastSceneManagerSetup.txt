@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Solo un cubo.unity
+  isLoaded: 1
+  isActive: 1
